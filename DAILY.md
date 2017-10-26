@@ -60,3 +60,31 @@ https://blog.patricktriest.com/game-of-thrones-map-node-postgres-redis/
 
 It happens to use PostgreSQL/PostGIS, but I am more interesting in the Node/Express/GeoJSON aspects.
 
+
+ok, I have postgres/postgis installed anyway, but there are a number of built binaries out there.
+
+I don't think this tutorial needs anything super up-to-date, but v9 postgres and v2 postgis should be fine.
+
+
+
+October 26th 2017
+=================
+
+Well, the link above was an eye-opener, with regards to Redis.
+
+I will need to think about the design of data as it comes into a map, because the caching capabilities of Redis should really speed up requests for data on a pan/zoom.
+
+The idea is that data will not actually change that much, and if it does, we can just flush the cache peridically.
+
+Given we are bring back data geo-spatially, that is quite expensive, so we could bring it back and cache it, especially at a zoomed in level.
+
+Anyway, some thought needed over time vs. memory.
+
+What I would love is for the map to render super-quick, with Node being used to query the database.
+
+Today was just going over the last aspects of the link and a start to Part II
+
+https://blog.patricktriest.com/game-of-thrones-leaflet-webpack/
+
+
+

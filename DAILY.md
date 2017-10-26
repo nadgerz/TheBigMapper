@@ -78,13 +78,34 @@ The idea is that data will not actually change that much, and if it does, we can
 
 Given we are bring back data geo-spatially, that is quite expensive, so we could bring it back and cache it, especially at a zoomed in level.
 
-Anyway, some thought needed over time vs. memory.
+Anyway, some thought needed over time to load vs. memory, etc.
 
 What I would love is for the map to render super-quick, with Node being used to query the database.
 
 Today was just going over the last aspects of the link and a start to Part II
 
 https://blog.patricktriest.com/game-of-thrones-leaflet-webpack/
+
+As I am concerned about data volumes... I have downloaded the OSM (OpenStreetMap) data for Berlin, Germany
+and have converted it to GEOjson using a tool called osmtogeojson.
+
+This is on NPM
+
+npm --install --global osmtogeojson
+
+Then:
+
+time /home/si/.nvm/versions/node/v8.8.1/bin/node --max_old_space_size=8192 `which osmtogeojson` berlin-latest.osm > berlin-latest.geojson
+
+My aim is that if I can load THIS data on the fly, with caching, loading poles and cables and post boxes 
+and whatever will be piss-easy
+
+I suspect this set of data will be insane... but the aim of this map product is 'local', so Berlin sized level is more than enough.
+
+Also 'too much' data will give me an opportunity to learn what I need.  
+
+At this point (map pun!) I do not know enough about MongoDB and GeoJSON to have a sane view
+
 
 
 

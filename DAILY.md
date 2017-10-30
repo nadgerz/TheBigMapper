@@ -109,3 +109,69 @@ At this point (map pun!) I do not know enough about MongoDB and GeoJSON to have 
 
 
 
+Sunday: October 29th 2017
+=========================
+
+I bought this course on Udemy, for $25:
+
+https://www.udemy.com/display-and-analyze-gis-data-on-the-web/learn/v4/overview
+
+after I had listened to this link: https://www.youtube.com/watch?v=AcPJtA41-5Q
+
+The Youtube link was about loading GeoJSON data and that seemed to dovetail
+nicely with the fact that I had converted the Berlin OSM data about into GeoJSON format.
+
+The Udemy course is by the same guy and the Youtube videos were a precursor to him developing 
+the Udemy course.
+
+He has another course on Udemy that is the pre-req for the one I bought, but
+I think that is likely only needed for someone with little to no programming experience.
+
+
+Monday: October 30th 2017
+=========================
+
+I am now just working through the Udemy course:
+
+https://www.udemy.com/display-and-analyze-gis-data-on-the-web/learn/v4/overview
+
+I figured this was not a bad direction as the application is map-related :)
+
+It happens to also be covering things like jQuery, CSS and JavaScript anyway, so
+there is practice there.
+
+And I get to see how WebStorm (the editor I am using for all this) performs.
+
+# chrome dev tools
+
+I am displaying the map/app in Google Chrome, so I get to deal with Chrome Dev Tools,
+which I suspect knowing well will be a huge productivity boost.
+
+I have a subscription the Pluralsigth and John Sonmez (http://www.simpleprogrammer.com)
+has a course on 'Using The Chrome Developer Tools'
+
+https://app.pluralsight.com/library/courses/chrome-developer-tools/table-of-contents
+
+It's a few years old now, so probably something on Youtube with Paul Irish, might be a better bet,
+give Chrome Dev Tools are 'evergreen'.
+
+
+# webpack
+
+I also hope to set things up to be using webpack, babel, browserify and friends, so that
+I can start using ES6 modules.  No browser supports them natively yet (as opposed to CommonJS), but
+as ES6 (and ES7/8) is the way we are going... why not bite the bullet now?
+
+
+# es6 and beyond
+
+I have started reading:
+
+https://leanpub.com/exploring-es6
+
+by Axel Rauschmayer, to get a side-by-side comparison of ES5 to ES6
+
+It is free online, at: http://exploringjs.com/es6.html
+
+But please buy it :)
+

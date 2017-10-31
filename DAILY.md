@@ -175,3 +175,39 @@ It is free online, at: http://exploringjs.com/es6.html
 
 But please buy it :)
 
+
+Tuesday: October 31st 2017
+==========================
+
+Still working through the Udemy course:
+
+https://www.udemy.com/display-and-analyze-gis-data-on-the-web/learn/v4/overview
+
+Up to Lecture 17
+
+Not going to go into details as the course will explain itself, if you get it.
+
+Suffice to say though, that Leaflet.js seems very comprehensive and I think will
+do all I want.  It probably will not be as comprehensive as a map application as
+I have used before, but less complexity might be a bonus.
+
+Certainly the code base should be more maintainable, especially if I use
+ES6 modules.
+
+One thing I have noticed, using Chrome Dev Tools is how much network traffic there is
+pulling in map tiles.
+
+Redis might be my thing for caching those.
+
+And if many people were, say, using this application (that I have yet to write :) ),
+we could even cache on an internal server, as people using the application add to the
+'common' cache.
+
+But I get ahead of myself :)
+
+I have noticed that the Udemy course uses Bootstrap and his Version 3 seems to play more nicely 
+than the Bootstrap version 4 I installed.
+
+That might be because I know JS about Bootstrap though :)
+
+Going to get through all the Native and Plugin Leaflet controls lectures (Section 2: The Leaflet Map Object) today.

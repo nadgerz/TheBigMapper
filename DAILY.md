@@ -211,3 +211,45 @@ than the Bootstrap version 4 I installed.
 That might be because I know JS about Bootstrap though :)
 
 Going to get through all the Native and Plugin Leaflet controls lectures (Section 2: The Leaflet Map Object) today.
+
+
+Wed: Nov 1st 2017
+=================
+
+Still working through the Udemy course:
+
+https://www.udemy.com/display-and-analyze-gis-data-on-the-web/learn/v4/overview
+
+Did not complete all the plugins yesterday, but have added quite a few... many of which
+will prove super useful.
+
+Thu: Nov 2nd 2017
+=================
+
+Still working through the Udemy course:
+
+https://www.udemy.com/display-and-analyze-gis-data-on-the-web/learn/v4/overview
+
+Mainly learned about Basemap and leaflet basemap providers.
+
+And ability to switch layers.
+
+Need to learn about draworder.
+
+
+Fri: Nov 3rd 2017
+=================
+
+Still working through the Udemy course:
+
+https://www.udemy.com/display-and-analyze-gis-data-on-the-web/learn/v4/overview
+
+Learning about Layer and Feature groups, to make different layers and features
+act as a single entity.
+
+Also realised we can change the basemap opacity.
+
+This will be useful to display a 'Stamen Watercolor' background and have our own artifacts
+show through or even have a simple Topo map blend with it.
+
+

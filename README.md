@@ -3,41 +3,41 @@ Seeing if I can create a node/javascript/react(+native)/mongodb based mapping pr
 
 In the project I hope to use (and learn *how* to use) tools and technologies such as:
 
-- **React/React Native**
+- **AWS**
+- **Android/iOS/Swift/Kotlin**
+- **Ansible**
+- **Babel/babeljs.io REPL**
+- **CSS/SASS**
+- **Chrome Dev Tools**
+- **Continual Deployment (CD)**
+- **Continual Integration (CI)**
+- **Docker**
+- **ELK - Elasticsearch/Logstash/Kibana - now The Elastic Stack**
+- **ES6/ES7**
+- **Firebase**
+- **Gulp**
+- **IntelliJ/WebStorm/Android Studio/Xcode**
+- **Java/Groovy**
+- **JavaScript design/module patterns**
 - **JavaScript**
+- **Jenkins**
+- **Junit/mocha/TDD**
+- **LeafletJS**
 - **MongoDB/PostgreSQL/postgis**
 - **Node**
-- **TypeScript**
-- **git**
-- **CSS/SASS**
-- **Continual Integration (CI)**
-- **Continual Deployment (CD)**
-- **Docker**
-- **Ansible**
-- **AWS**
-- **Webpack**
-- **Chrome Dev Tools**
-- **JavaScript design/module patterns**
-- **Java/Groovy**
-- **ES6/ES7**
-- **ELK - Elasticsearch/Logstash/Kibana - now The Elastic Stack**
-- **Android/iOS/Swift/Kotlin**
-- **IntelliJ/WebStorm/Android Studio/Xcode**
-- **LeafletJS**
-- **Ruby**
 - **OAuth**
-- **Vagrant**
-- **eslint/jshint**
-- **Gulp**
 - **PMD/findbugs**
+- **React/React Native**
+- **Ruby**
+- **TypeScript**
+- **Vagrant**
+- **Webpack**
 - **checkstyle**
-- **Junit/mocha/TDD**
-- **Babel/babeljs.io REPL**
-- **Jenkins**
-- **Firebase**
-- **tmux**
-- **nginx**
+- **eslint/jshint**
+- **git**
 - **nagios**
+- **nginx**
+- **tmux**
 --**yarn**
 
 Some technology I know already; the main aim is to learn React(+native) and create a product I can host on AWS with a NoSQL backing store.

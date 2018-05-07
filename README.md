@@ -38,6 +38,7 @@ In the project I hope to use (and learn *how* to use) tools and technologies suc
 - **tmux**
 - **nginx**
 - **nagios**
+--**yarn**
 
 Some technology I know already; the main aim is to learn React(+native) and create a product I can host on AWS with a NoSQL backing store.
 

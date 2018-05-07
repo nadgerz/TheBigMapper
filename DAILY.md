@@ -252,4 +252,18 @@ Also realised we can change the basemap opacity.
 This will be useful to display a 'Stamen Watercolor' background and have our own artifacts
 show through or even have a simple Topo map blend with it.
 
+Mon: May 7th 2018
+=================
 
+So much for *daily*, but now I (re)start.
+
+Have done a bunch of React courses and ready to start the design of the application.
+
+I'll start with the Facebook wrapper 'create-react-app' as that gives me a head-start
+with webpack, babel and live-reloading for the app in the browser.
+
+I'll concentrate on the initial 'page' for the application first; the one with a map (leaflet) and  
+details about data loaded.
+
+Initially I will just have data held in a JSON file to mimic the back-end before moving to mongodb 
+for real, but that is a way off :)

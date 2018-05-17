@@ -27,6 +27,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.11",
     "style-loader": "^0.21.0",
     "why-did-you-update": "^0.1.1"

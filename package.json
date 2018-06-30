@@ -13,7 +13,7 @@
     "react-dom": "^16.4.1",
     "react-intl": "^2.4.0",
     "react-masonry-component": "^6.2.1",
-    "react-pdf": "^4.0.0-beta",
+    "react-pdf": "^4.0.0-beta.2",
     "react-redux": "^5.1.0-test.1",
     "react-router": "^4.4.0-alpha.1",
     "react-router-dom": "^4.4.0-alpha.1",

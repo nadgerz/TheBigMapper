@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-preset-react": "^7.0.0-beta.3",
-    "css-loader": "^0.28.11",
+    "css-loader": "^1.0.0",
     "style-loader": "^0.21.0",
     "why-did-you-update": "^0.1.1"
   }

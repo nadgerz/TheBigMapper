@@ -3692,10 +3692,10 @@ eslint-plugin-flowtype@2.50.1:
   dependencies:
     lodash "^4.17.10"
 
-eslint-plugin-flowtype@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-3.1.1.tgz#1b96559b8015c06e6b7a3c5ba9c73d8e652e69d8"
-  integrity sha512-89AJf6aARXCM6FVZllyXhVvAkq/4960PeWK2VWGYL7LbqM0n3i8oVw+5DstfV/0WTRhlz66pdq/Kwx+5C/RCKA==
+eslint-plugin-flowtype@^3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-3.1.4.tgz#c6c9c514b8c01579e6621b51d83549d5db802cac"
+  integrity sha512-vTWZcbE1NZaSEJwD2hXFFwDi2TidNLANf2jfsl+Mb43x2g/1TZmf/VVexljNrbbRw46lF6+Hexq10hF6OFZVEQ==
   dependencies:
     lodash "^4.17.10"
 
@@ -9196,10 +9196,10 @@ react-html-attributes@^1.4.2:
   dependencies:
     html-element-attributes "^1.0.0"
 
-react-i18next@^8.3.0:
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/react-i18next/-/react-i18next-8.3.0.tgz#4f8fe1e4d766e615c57046939f81bf078cfc82ac"
-  integrity sha512-y9DUky9rXW0R6JjRjHJgBxI5lT/c/AH78cQ5P/IN2OCDV0T4NLFPaU2pSg3bfqBdmPefTRJq2ZJIxG9rNm+avQ==
+react-i18next@^8.3.5:
+  version "8.3.5"
+  resolved "https://registry.yarnpkg.com/react-i18next/-/react-i18next-8.3.5.tgz#7a24f2715646bf8027cc39aca04c94e8c0b130c0"
+  integrity sha512-YYRQHE9YoRSjI96j2n8IZWp2sGIBbGFEFtT68gec2qlJOHQgs6ni+cNXECaJlUKXCElpxfLAovBTQvDf3jZmow==
   dependencies:
     "@babel/runtime" "^7.1.2"
     create-react-context "0.2.3"
